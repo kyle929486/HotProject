@@ -21,7 +21,7 @@
 
  
 - 여행엽서 페이지 : 이미지를 업로드하여 엽서 형태로 꾸민 뒤, html2canvas 라이브러리를 사용하여 PC에 저장
-<p align="center"><img src="https://github.com/kyle929486/HotProject/assets/151328589/152d95f1-9942-4579-96a7-dc6bd41b8c95" width="70%" height="70%"></p>
+<p align="center"><img src="https://github.com/kyle929486/HotProject/assets/151328589/89829008-bcea-46a9-a29f-09601cdae5f3" width="70%" height="70%"></p>
 <p align="center"><img src="https://github.com/kyle929486/HotProject/blob/master/Animation.gif" width="70%" height="70%"></p>
 
 <hr>
