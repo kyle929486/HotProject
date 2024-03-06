@@ -4,7 +4,9 @@
 바쁜 현대 사회에서 여행은 가고 싶지만...
 어렵고 막막한 여행 계획, 쉬운 방법 없을까?
 #### 한눈에 보고, 빠르게 계획할 수 있는 웹페이지!!
+#### [프로젝트 발표 영상 보러 가기](https://www.youtube.com/watch?v=BtLcqLXIx54&list=PLedGoSru7949HpjolTIj01PMIzOOTG6Yq&index=9)
 <hr>
+
 
 ### 구현 기능
 
