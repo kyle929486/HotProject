@@ -44,6 +44,5 @@
                |    |        |    |
                |                  |
                 \________________/
-      ![Animation](https://github.com/kyle929486/HotProject/assets/151328589/5d3a9dcc-9324-4b04-8126-8b4508332fb8)
-      ![Animation (1)](https://github.com/kyle929486/HotProject/assets/151328589/f01d3a7f-524d-4d57-a266-bb63d61f19be)
+
 
