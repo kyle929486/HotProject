@@ -40,7 +40,7 @@
 <br/>
 
 <p align="center"><img src="https://github.com/kyle929486/HotProject/assets/151328589/89829008-bcea-46a9-a29f-09601cdae5f3" width="70%"></p>
-<p align="center"><img src="https://github.com/kyle929486/HotProject/blob/master/upload/Animation.gif" width="70%"></p>
+<p align="center"><img src="https://github.com/kyle929486/HotProject/blob/master/upload/Animation%20(5).gif?" width="70%"></p>
 
 <hr>
 
