@@ -8,17 +8,24 @@
 <hr>
 
 
-### 맡은 역할 및 구현 기능
-- **로그인, 회원가입** : Spring Security를 활용한 로그인 및 회원가입, Oath2를 활용한 소셜 로그인
-
+### 구현 기능
+#### 로그인, 회원가입
+- Spring Security를 활용한 로그인 및 회원가입, Oath2를 활용한 소셜 로그인
+- JAVA, Spring, MyBatis, SpringSecurity, SpringOath2Client
+- HTML, CSS, BootStrap, JavaScript, jQuery
+<br/>
 
 <img src="https://github.com/kyle929486/HotProject/blob/master/upload/Animation%20(2).gif" width="50%" height="50%"><img src="https://github.com/kyle929486/HotProject/blob/master/upload/Animation%20(3).gif" width="50%" height="50%">
 
 
 
 
-- **아이디, 비밀번호 찾기** : DB에 저장된 이메일로 인증코드를 발송, 인증코드 검증에 성공하면 아이디 표시 및 비밀번호 교체
-
+#### 아이디, 비밀번호 찾기
+- DB에 저장된 이메일로 인증코드를 발송, 인증코드 검증에 성공하면 아이디 표시 및 비밀번호 교체
+- JAVA, Spring, MyBatis
+- HTML, CSS, BootStrap, JavaScript, jQuery
+- Apache Commons Email, 네이버 SMTP
+<br/>
 
 <img src="https://github.com/kyle929486/HotProject/blob/master/upload/Animation%20(4).gif" width="50%" height="50%"><img src="https://github.com/kyle929486/HotProject/blob/master/upload/Animation%20(1).gif" width="50%" height="50%">
 <p align="center"><img src="https://github.com/kyle929486/HotProject/assets/151328589/b220daa2-0c0f-4ce9-9c62-c4eea60626b0" width="70%"></p>
@@ -26,8 +33,11 @@
 
 
  
-- **여행엽서 페이지** : 이미지를 업로드하여 엽서 형태로 꾸민 뒤, html2canvas 라이브러리를 사용하여 PC에 저장
-
+#### 여행엽서 페이지 :
+- 이미지를 업로드하여 엽서 형태로 꾸민 뒤, html2canvas 라이브러리를 사용하여 PC에 저장
+- HTML, CSS, BootStrap, JavaScript, jQuery
+- html2canvas
+<br/>
 
 <p align="center"><img src="https://github.com/kyle929486/HotProject/assets/151328589/89829008-bcea-46a9-a29f-09601cdae5f3" width="70%"></p>
 <p align="center"><img src="https://github.com/kyle929486/HotProject/blob/master/upload/Animation.gif" width="70%"></p>
@@ -42,24 +52,6 @@
 
 <hr>
 
-### SpringBoot 3.2.x. JDK 17
-- spring-web
-- devtools
-- lombok
-- spring-security
-- spring-thymeleaf
-- spring-validation
-- mybatis : 3.0.2
-- thymeleaf-extras-springsecurity6
-- spring-oauth2-client
-- spring-data-jpa
-- mysql-connector-j
-- spring-boot-starter-webflux
-- commons-email:1.5
-- spring-mail  version - 3.0.5
-#### 배포 위치 EC2 !
-
-<hr>
 
 ### 배포 방법
 - 개발환경(컴퓨터)에서 github 업로드
